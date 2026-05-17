@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# logs
+*.log
+logs/
+
+# build
+dist/
+build/
+
+# env files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# database files
+mongodb-data/
+
+# temp backend duplicate
+frontend/temp/
+
+# uploads
+backend/src/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# coverage reports
+coverage/
